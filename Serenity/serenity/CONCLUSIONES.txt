@@ -1,0 +1,4 @@
+Conclusiones:
+1. El flujo E2E de compra fue exitoso.
+2. La automatización incluye la adición de productos, visualización del carrito y finalización de compra.
+3. La prueba fue estable y reproducible usando Serenity BDD.

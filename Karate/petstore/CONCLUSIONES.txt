@@ -1,0 +1,9 @@
+Conclusiones:
+1. Se logró automatizar las pruebas REST para la API PetStore de forma exitosa.
+2. Las pruebas incluyeron:
+   - Creación de una mascota.
+   - Consulta de la mascota creada por ID.
+   - Actualización del nombre y estatus de la mascota.
+   - Consulta de la mascota actualizada por estatus.
+3. Karate permitió realizar pruebas con mínima configuración y reportes visuales.
+4. La automatización es reutilizable y fácil de entender.
